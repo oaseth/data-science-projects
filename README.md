@@ -1,5 +1,5 @@
 # Data-Science-projects 
-This repository contains exercises and projects from a complete Data Science Bootcamp on Udemy. The data used in these exercises are provided by the bootcamp coordinators.
+This repository contains exercises and projects from a complete Data Science Bootcamp on Udemy. The data used in these exercises were provided by the bootcamp coordinators.
 
 ## Modules used
 - Numpy
